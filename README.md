@@ -1,5 +1,5 @@
 # cjk
-This are so many characters in C(hinese)J(apanese)K(orean) and It's a huge headache to deal with them. So I create this repo to make your life easier. It supports TextMeshPro for Unity.
+There are so many characters in C(hinese)J(apanese)K(orean) and It's a huge headache to deal with them. So I create this repo to make your life easier. It supports Unity TextMeshPro.
 
 # Known issues
 1.Tested with random articles from wiki in SC/TC/J/K. Some characters are missing because I think that's acceptable for games. If you found any characters that are important but missing, feel free to fire an issue.
